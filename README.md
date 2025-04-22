@@ -31,7 +31,7 @@ It helps job seekers by extracting skills from uploaded resumes and comparing th
 ## 🛠️ Setup Instructions
 
 1. **Clone the repo**
-git clone https://github.com/your-username/resume-radar.git
+git clone https://github.com/Anurag-027/resume-radar.git
 cd resume-radar
 
 2. **Create a virtual environment**
