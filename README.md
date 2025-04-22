@@ -55,7 +55,7 @@ Step | Task
 4️⃣ | Display structured output in a clean dashboard
 
 🌍 Live Demo
-📡 Deployed here: https://resume-radar.streamlit.app
+📡 Deployed here: https://resume-radar-027.streamlit.app/
 
 🙌 Acknowledgements
 Gemini API
